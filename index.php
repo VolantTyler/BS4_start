@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Volant Template for Bootstrap</title>
+    <title>Volant Template for Bootstrap 4</title>
 
     <link href="css/bootstrap.css" rel="stylesheet">
 
